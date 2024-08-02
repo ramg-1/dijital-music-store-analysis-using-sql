@@ -1,1 +1,1 @@
-# dijital-music-store-analysis-using-sql
+# digital-music-store-analysis-using-sql
